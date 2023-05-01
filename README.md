@@ -1,2 +1,2 @@
 # kasihangout
-Takeaway web-app to make things easier
+Takeaway web-app
